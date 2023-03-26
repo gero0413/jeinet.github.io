@@ -1,0 +1,27 @@
+.btn-outline-dark{
+    margin-right: 7px !important;
+}
+
+.card-img, .card-img-top, .card-img-bottom {
+    width: 40% !important;
+}
+
+.card{
+    border: 0px;
+}
+
+.table{
+    vertical-align: baseline !important;
+}
+
+#productos{
+    margin-top: 50px !important;
+}
+
+.fa-basket-shopping{
+    margin-left: 10px !important;
+}
+
+.text-end {
+    color: lightseagreen !important;
+}

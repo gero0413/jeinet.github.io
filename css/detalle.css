@@ -1,0 +1,30 @@
+#carouselExampleDark{
+    max-width: 700px !important;
+    position: fixed !important;
+}
+
+.btn-outline-dark{
+    margin-right: 7px !important;
+}
+
+#info{
+    padding-top: 107px;
+}
+
+#valor{
+    padding-top: 107px;
+}
+
+#precio{
+    color: lightseagreen;
+    padding-top: 48px;
+}
+
+#cantidad_carrito{
+    padding-top: 50px !important;
+}
+
+#tipo_envio{
+    padding-top: 20px !important;
+}
+
